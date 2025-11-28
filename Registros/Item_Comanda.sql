@@ -1,0 +1,99 @@
+INSERT INTO Item_Comanda VALUES (1, 3, 2, 25.90);
+INSERT INTO Item_Comanda VALUES (1, 7, 1, 12.00);
+INSERT INTO Item_Comanda VALUES (1, 12, 3, 8.50);
+
+INSERT INTO Item_Comanda VALUES (2, 5, 1, 32.00);
+INSERT INTO Item_Comanda VALUES (2, 9, 2, 14.90);
+INSERT INTO Item_Comanda VALUES (2, 18, 1, 45.00);
+
+INSERT INTO Item_Comanda VALUES (3, 2, 1, 19.00);
+INSERT INTO Item_Comanda VALUES (3, 14, 2, 7.50);
+INSERT INTO Item_Comanda VALUES (3, 22, 1, 56.00);
+
+INSERT INTO Item_Comanda VALUES (4, 1, 3, 6.00);
+INSERT INTO Item_Comanda VALUES (4, 10, 1, 39.90);
+INSERT INTO Item_Comanda VALUES (4, 25, 1, 72.00);
+
+INSERT INTO Item_Comanda VALUES (5, 4, 1, 29.90);
+INSERT INTO Item_Comanda VALUES (5, 6, 3, 9.00);
+INSERT INTO Item_Comanda VALUES (5, 13, 1, 18.00);
+
+INSERT INTO Item_Comanda VALUES (6, 8, 2, 11.50);
+INSERT INTO Item_Comanda VALUES (6, 15, 1, 48.00);
+INSERT INTO Item_Comanda VALUES (6, 27, 2, 22.00);
+
+INSERT INTO Item_Comanda VALUES (7, 3, 1, 25.90);
+INSERT INTO Item_Comanda VALUES (7, 11, 1, 15.00);
+INSERT INTO Item_Comanda VALUES (7, 30, 1, 65.00);
+
+INSERT INTO Item_Comanda VALUES (8, 14, 2, 7.50);
+INSERT INTO Item_Comanda VALUES (8, 19, 1, 44.90);
+INSERT INTO Item_Comanda VALUES (8, 33, 1, 51.00);
+
+INSERT INTO Item_Comanda VALUES (9, 5, 2, 32.00);
+INSERT INTO Item_Comanda VALUES (9, 12, 1, 8.50);
+INSERT INTO Item_Comanda VALUES (9, 40, 1, 110.00);
+
+INSERT INTO Item_Comanda VALUES (10, 7, 4, 12.00);
+INSERT INTO Item_Comanda VALUES (10, 18, 1, 45.00);
+INSERT INTO Item_Comanda VALUES (10, 28, 1, 28.00);
+
+INSERT INTO Item_Comanda VALUES (11, 6, 1, 9.00);
+INSERT INTO Item_Comanda VALUES (11, 20, 2, 17.90);
+INSERT INTO Item_Comanda VALUES (11, 34, 1, 49.90);
+
+INSERT INTO Item_Comanda VALUES (12, 2, 2, 19.00);
+INSERT INTO Item_Comanda VALUES (12, 15, 1, 48.00);
+INSERT INTO Item_Comanda VALUES (12, 29, 1, 33.00);
+
+INSERT INTO Item_Comanda VALUES (13, 9, 1, 14.90);
+INSERT INTO Item_Comanda VALUES (13, 17, 2, 21.00);
+INSERT INTO Item_Comanda VALUES (13, 37, 1, 79.00);
+
+INSERT INTO Item_Comanda VALUES (14, 4, 1, 29.90);
+INSERT INTO Item_Comanda VALUES (14, 8, 2, 11.50);
+INSERT INTO Item_Comanda VALUES (14, 26, 1, 60.00);
+
+INSERT INTO Item_Comanda VALUES (15, 1, 3, 6.00);
+INSERT INTO Item_Comanda VALUES (15, 13, 1, 18.00);
+INSERT INTO Item_Comanda VALUES (15, 41, 1, 105.00);
+
+INSERT INTO Item_Comanda VALUES (16, 10, 1, 39.90);
+INSERT INTO Item_Comanda VALUES (16, 24, 2, 26.90);
+INSERT INTO Item_Comanda VALUES (16, 36, 1, 92.00);
+
+INSERT INTO Item_Comanda VALUES (17, 3, 2, 25.90);
+INSERT INTO Item_Comanda VALUES (17, 21, 1, 16.00);
+INSERT INTO Item_Comanda VALUES (17, 44, 1, 120.00);
+
+INSERT INTO Item_Comanda VALUES (18, 7, 1, 12.00);
+INSERT INTO Item_Comanda VALUES (18, 18, 1, 45.00);
+INSERT INTO Item_Comanda VALUES (18, 32, 1, 58.00);
+
+INSERT INTO Item_Comanda VALUES (19, 5, 1, 32.00);
+INSERT INTO Item_Comanda VALUES (19, 23, 2, 13.90);
+INSERT INTO Item_Comanda VALUES (19, 38, 1, 75.00);
+
+INSERT INTO Item_Comanda VALUES (20, 11, 1, 15.00);
+INSERT INTO Item_Comanda VALUES (20, 14, 1, 7.50);
+INSERT INTO Item_Comanda VALUES (20, 31, 1, 69.90);
+
+INSERT INTO Item_Comanda VALUES (21, 6, 3, 9.00);
+INSERT INTO Item_Comanda VALUES (21, 22, 1, 56.00);
+INSERT INTO Item_Comanda VALUES (21, 35, 1, 47.00);
+
+INSERT INTO Item_Comanda VALUES (22, 4, 1, 29.90);
+INSERT INTO Item_Comanda VALUES (22, 9, 2, 14.90);
+INSERT INTO Item_Comanda VALUES (22, 43, 1, 115.00);
+
+INSERT INTO Item_Comanda VALUES (23, 8, 1, 11.50);
+INSERT INTO Item_Comanda VALUES (23, 15, 1, 48.00);
+INSERT INTO Item_Comanda VALUES (23, 39, 1, 88.00);
+
+INSERT INTO Item_Comanda VALUES (24, 3, 1, 25.90);
+INSERT INTO Item_Comanda VALUES (24, 12, 2, 8.50);
+INSERT INTO Item_Comanda VALUES (24, 50, 1, 72.00);
+
+INSERT INTO Item_Comanda VALUES (25, 2, 1, 19.00);
+INSERT INTO Item_Comanda VALUES (25, 16, 1, 33.90);
+INSERT INTO Item_Comanda VALUES (25, 42, 1, 109.00);

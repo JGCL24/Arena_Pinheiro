@@ -1,0 +1,87 @@
+INSERT INTO Pagamento VALUES (1, 58.90, 'Pix', 'Comanda', 3);
+INSERT INTO Pagamento VALUES (2, 74.50, 'Cartão', 'Comanda', 2);
+INSERT INTO Pagamento VALUES (3, 120.00, 'Dinheiro', 'Comanda', 5);
+INSERT INTO Pagamento VALUES (4, 45.00, 'Pix', 'Comanda', 1);
+INSERT INTO Pagamento VALUES (5, 98.70, 'Cartão', 'Comanda', 4);
+INSERT INTO Pagamento VALUES (6, 210.00, 'Pix', 'Comanda', 6);
+INSERT INTO Pagamento VALUES (7, 34.90, 'Dinheiro', 'Comanda', 8);
+INSERT INTO Pagamento VALUES (8, 67.50, 'Pix', 'Comanda', 2);
+INSERT INTO Pagamento VALUES (9, 155.20, 'Cartão', 'Comanda', 9);
+INSERT INTO Pagamento VALUES (10, 89.00, 'Pix', 'Comanda', 4);
+
+INSERT INTO Pagamento VALUES (11, 310.00, 'Cartão', 'Reserva', 3);
+INSERT INTO Pagamento VALUES (12, 150.00, 'Pix', 'Reserva', 5);
+INSERT INTO Pagamento VALUES (13, 220.00, 'Dinheiro', 'Reserva', 6);
+INSERT INTO Pagamento VALUES (14, 130.00, 'Cartão', 'Reserva', 1);
+INSERT INTO Pagamento VALUES (15, 180.00, 'Pix', 'Reserva', 10);
+INSERT INTO Pagamento VALUES (16, 260.00, 'Cartão', 'Reserva', 4);
+INSERT INTO Pagamento VALUES (17, 145.50, 'Pix', 'Reserva', 8);
+INSERT INTO Pagamento VALUES (18, 330.00, 'Dinheiro', 'Reserva', 2);
+INSERT INTO Pagamento VALUES (19, 210.90, 'Pix', 'Reserva', 3);
+INSERT INTO Pagamento VALUES (20, 305.00, 'Cartão', 'Reserva', 7);
+
+INSERT INTO Pagamento VALUES (21, 480.00, 'Cartão', 'avulso', 9);
+INSERT INTO Pagamento VALUES (22, 250.00, 'Pix', 'avulso', 6);
+INSERT INTO Pagamento VALUES (23, 390.00, 'Dinheiro', 'avulso', 4);
+INSERT INTO Pagamento VALUES (24, 420.00, 'Pix', 'avulso', 5);
+INSERT INTO Pagamento VALUES (25, 510.00, 'Cartão', 'avulso', 1);
+INSERT INTO Pagamento VALUES (26, 370.00, 'Dinheiro', 'avulso', 2);
+INSERT INTO Pagamento VALUES (27, 260.00, 'Pix', 'avulso', 10);
+INSERT INTO Pagamento VALUES (28, 499.99, 'Cartão', 'avulso', 3);
+INSERT INTO Pagamento VALUES (29, 310.40, 'Pix', 'avulso', 7);
+INSERT INTO Pagamento VALUES (30, 285.00, 'Dinheiro', 'avulso', 8);
+
+INSERT INTO Pagamento VALUES (31, 65.00, 'Pix', 'Comanda', 4);
+INSERT INTO Pagamento VALUES (32, 32.90, 'Cartão', 'Comanda', 9);
+INSERT INTO Pagamento VALUES (33, 150.00, 'Pix', 'Comanda', 3);
+INSERT INTO Pagamento VALUES (34, 78.20, 'Dinheiro', 'Comanda', 5);
+INSERT INTO Pagamento VALUES (35, 90.00, 'Pix', 'Comanda', 7);
+INSERT INTO Pagamento VALUES (36, 135.00, 'Cartão', 'Comanda', 8);
+INSERT INTO Pagamento VALUES (37, 188.00, 'Pix', 'Comanda', 10);
+INSERT INTO Pagamento VALUES (38, 57.50, 'Dinheiro', 'Comanda', 6);
+INSERT INTO Pagamento VALUES (39, 102.30, 'Pix', 'Comanda', 2);
+INSERT INTO Pagamento VALUES (40, 200.00, 'Cartão', 'Comanda', 1);
+
+INSERT INTO Pagamento VALUES (41, 300.00, 'Dinheiro', 'Reserva', 3);
+INSERT INTO Pagamento VALUES (42, 210.00, 'Pix', 'Reserva', 4);
+INSERT INTO Pagamento VALUES (43, 175.00, 'Cartão', 'Reserva', 7);
+INSERT INTO Pagamento VALUES (44, 140.00, 'Pix', 'Reserva', 2);
+INSERT INTO Pagamento VALUES (45, 225.00, 'Cartão', 'Reserva', 1);
+INSERT INTO Pagamento VALUES (46, 310.00, 'Pix', 'Reserva', 8);
+INSERT INTO Pagamento VALUES (47, 195.10, 'Dinheiro', 'Reserva', 9);
+INSERT INTO Pagamento VALUES (48, 260.00, 'Cartão', 'Reserva', 6);
+INSERT INTO Pagamento VALUES (49, 145.00, 'Pix', 'Reserva', 10);
+INSERT INTO Pagamento VALUES (50, 320.00, 'Cartão', 'Reserva', 5);
+
+INSERT INTO Pagamento VALUES (51, 410.00, 'Pix', 'avulso', 3);
+INSERT INTO Pagamento VALUES (52, 290.00, 'Dinheiro', 'avulso', 4);
+INSERT INTO Pagamento VALUES (53, 365.00, 'Pix', 'avulso', 7);
+INSERT INTO Pagamento VALUES (54, 450.00, 'Cartão', 'avulso', 1);
+INSERT INTO Pagamento VALUES (55, 399.00, 'Pix', 'avulso', 10);
+INSERT INTO Pagamento VALUES (56, 475.00, 'Dinheiro', 'avulso', 8);
+INSERT INTO Pagamento VALUES (57, 510.90, 'Cartão', 'avulso', 5);
+INSERT INTO Pagamento VALUES (58, 388.50, 'Pix', 'avulso', 2);
+INSERT INTO Pagamento VALUES (59, 299.99, 'Cartão', 'avulso', 6);
+INSERT INTO Pagamento VALUES (60, 430.00, 'Dinheiro', 'avulso', 9);
+
+INSERT INTO Pagamento VALUES (61, 85.00, 'Cartão', 'Comanda', 2);
+INSERT INTO Pagamento VALUES (62, 45.00, 'Pix', 'Comanda', 3);
+INSERT INTO Pagamento VALUES (63, 112.00, 'Dinheiro', 'Comanda', 4);
+INSERT INTO Pagamento VALUES (64, 160.00, 'Pix', 'Comanda', 7);
+INSERT INTO Pagamento VALUES (65, 132.70, 'Cartão', 'Comanda', 8);
+INSERT INTO Pagamento VALUES (66, 97.00, 'Pix', 'Comanda', 9);
+INSERT INTO Pagamento VALUES (67, 59.90, 'Dinheiro', 'Comanda', 5);
+INSERT INTO Pagamento VALUES (68, 204.00, 'Pix', 'Comanda', 10);
+INSERT INTO Pagamento VALUES (69, 142.00, 'Cartão', 'Comanda', 1);
+INSERT INTO Pagamento VALUES (70, 175.30, 'Pix', 'Comanda', 6);
+
+INSERT INTO Pagamento VALUES (71, 280.00, 'Pix', 'Reserva', 2);
+INSERT INTO Pagamento VALUES (72, 330.00, 'Cartão', 'Reserva', 3);
+INSERT INTO Pagamento VALUES (73, 190.00, 'Dinheiro', 'Reserva', 4);
+INSERT INTO Pagamento VALUES (74, 165.00, 'Pix', 'Reserva', 5);
+INSERT INTO Pagamento VALUES (75, 220.00, 'Pix', 'Reserva', 7);
+INSERT INTO Pagamento VALUES (76, 310.00, 'Cartão', 'Reserva', 10);
+INSERT INTO Pagamento VALUES (77, 205.50, 'Dinheiro', 'Reserva', 9);
+INSERT INTO Pagamento VALUES (78, 295.00, 'Pix', 'Reserva', 1);
+INSERT INTO Pagamento VALUES (79, 250.00, 'Cartão', 'Reserva', 8);
+INSERT INTO Pagamento VALUES (80, 180.00, 'Pix', 'Reserva', 6);
