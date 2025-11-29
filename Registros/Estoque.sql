@@ -86,3 +86,10 @@ INSERT INTO Estoque (Id_Estoque, Id_Produto, Quant_Present) VALUES
 (78, 78, 65),
 (79, 79, 40),
 (80, 80, 190);
+
+UPDATE Estoque SET Quant_Present = 10 WHERE Id_Produto = 2; 
+UPDATE Estoque SET Quant_Present = 5  WHERE Id_Produto = 7;  
+UPDATE Estoque SET Quant_Present = 2  WHERE Id_Produto = 11; 
+UPDATE Estoque SET Quant_Present = 1  WHERE Id_Produto = 24;
+UPDATE Estoque SET Quant_Present = 0  WHERE Id_Produto = 50; 
+
